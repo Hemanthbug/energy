@@ -1,0 +1,15 @@
+# --- Data (DO NOT COMMIT) ---
+data/
+outputs/
+models/
+
+# --- Large file types ---
+*.csv
+*.zip
+*.parquet
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
